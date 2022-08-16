@@ -1,2 +1,2 @@
-# feul
-Machine Unlearning in Federated Learning
+# feul :oil_drum:
+**Fe**derated ~~Learning~~ <ins>**Un**</ins>learning
