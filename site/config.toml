@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-gb'
+title = 'FYP22002@HKUCS'
+theme = "ananke"
+[params]
+  date_format = "Mon 02-Jan-2006 15:04:05 MST"
