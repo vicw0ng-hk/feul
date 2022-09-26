@@ -11,7 +11,7 @@ Work is in progress. Please stay tuned.
 
 [Introduction](https://vicw0ng-hk.github.io/feul/intro/) | [Progress](https://vicw0ng-hk.github.io/feul/timetable/) | Methods
 
-{{ $.Site.BaseURL }}
+{{ .Site.BaseURL }}
 
 [Project Plan](https://i.cs.hku.hk/~shuang/fyp-plan.pdf) | Interim Report | Final Report
 
