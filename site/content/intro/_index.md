@@ -8,7 +8,7 @@ featured_image: "/images/mu.png"
 
 Please refer to [Project Plan](https://i.cs.hku.hk/~shuang/fyp-plan.pdf) for more details.
 
-(Some info to be filled in)
+...
 
 But for quick understanding of concepts:
 
