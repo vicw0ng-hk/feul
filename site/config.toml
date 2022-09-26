@@ -1,14 +1,19 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://example.org'
 languageCode = 'en-gb'
 title = 'FYP22002@HKUCS'
 theme = "ananke"
+SectionPagesMenu = "main"
+Paginate = 10
 [params]
   date_format = "Mon 02-Jan-2006 15:04:05 -07:00"
   background_color_class = "bg-navy"
+  favicon = "images/brain.png"
+  custom_css = ["style.css"]
 [[params.ananke_socials]]
   name = "github"
-  url = "https://github.com/vicw0ng-hk"
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+  url = "https://github.com/vicw0ng-hk/"
+[[params.ananke_socials]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/vicw0ng/"
+[markup.goldmark.renderer]
+  unsafe = true
