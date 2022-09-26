@@ -2,3 +2,8 @@
     aspect-ratio: 16 / 9;
     width: 100%;
 }
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}

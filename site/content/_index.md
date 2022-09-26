@@ -5,8 +5,12 @@ cascade:
   featured_image: '/images/amnesia.jpg'
 ---
 
-Welcome to the BEng(CompSc) FYP of [Victor S. HUANG](https://github.com/vicw0ng-hk/), supervised by [Prof. S.M YIU](https://www.cs.hku.hk/index.php/people/academic-staff/smyiu/). 
+Welcome to the BEng(CompSc) FYP of [Victor S. HUANG](https://github.com/vicw0ng-hk/), supervised by [Prof. S.M. YIU](https://www.cs.hku.hk/index.php/people/academic-staff/smyiu/). 
 
 Work is in progress. Please stay tuned. 
 
-| [Project Plan](https://i.cs.hku.hk/~shuang/fyp-plan.pdf) | Interim Report | Final Report |
+[Introduction](/intro/) | [Progress](/timetable/) | Methods
+
+[Project Plan](https://i.cs.hku.hk/~shuang/fyp-plan.pdf) | Interim Report | Final Report
+
+Made with ❤️ by Victor

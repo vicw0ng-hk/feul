@@ -5,7 +5,7 @@ theme = "ananke"
 SectionPagesMenu = "main"
 Paginate = 10
 [params]
-  date_format = "Mon 02-Jan-2006 15:04:05 -07:00"
+  date_format = "Mon 02-Jan-2006 15:04:05 (-07:00)"
   background_color_class = "bg-navy"
   favicon = "images/brain.png"
   custom_css = ["style.css"]
