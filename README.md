@@ -13,9 +13,9 @@ My Final Year Project (COMP4801) :hammer_and_pick: of [BEng(CompSc)](https://www
 | :construction: | Conduct small experiments | – 02 Oct 2022 | |
 | :construction: | Write Plan and build web page | – 02 Oct 2022 | Deliverable 1 - due 02 Oct |
 | :black_square_button: | Continued and more advanced reading | – 08 Jan 2023 | |
-| :black_square_button: | Write in Notebooks on concepts | – 08 Jan 2023 | |
+| :black_square_button: | Write in Notebooks on concepts | – 08 Jan 2023 | Deliverable 2 - due 22 Jan |
 | :black_square_button: | Test unlearning frameworks | – 08 Jan 2023 | |
-| :black_square_button: | Build demo Notebooks | – 08 Jan 2023 | |
+| :black_square_button: | Build demo Notebooks | – 08 Jan 2023 | Deliverable 2 - due 22 Jan |
 | :black_square_button: | Prepare for 1st Presentation | – 08 Jan 2023 | 1st present 09 - 13 Jan |
 | :black_square_button: | Write Interim Report | - 22 Jan 2023 | Deliverable 2 - due 22 Jan |
 | :black_square_button: | Comprehensively test and compare methods in readings | - 02 Apr 2023 | |
