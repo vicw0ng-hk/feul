@@ -4,7 +4,9 @@ date: 2022-09-23T10:38:16+08:00
 featured_image: "/images/mu.png"
 ---
 
-[Project Plan](https://i.cs.hku.hk/~shuang/plan.pdf)
+Please refer to [Project Plan](https://i.cs.hku.hk/~shuang/plan.pdf) for more details.
+
+But for quick understanding of concepts:
 
 ## What is Machine Unlearning?
 

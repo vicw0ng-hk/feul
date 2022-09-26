@@ -1,4 +1,4 @@
-baseURL = 'http://example.org'
+baseURL = "https://vicw0ng-hk.github.io/feul/"
 languageCode = 'en-gb'
 title = 'FYP22002@HKUCS'
 theme = "ananke"
@@ -15,5 +15,6 @@ Paginate = 10
 [[params.ananke_socials]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/vicw0ng/"
+  share = false
 [markup.goldmark.renderer]
   unsafe = true

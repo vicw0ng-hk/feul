@@ -9,4 +9,4 @@ Welcome to the BEng(CompSc) FYP of [Victor S. HUANG](https://github.com/vicw0ng-
 
 Work is in progress. Please stay tuned. 
 
-| [Project Plan]((https://i.cs.hku.hk/~shuang/plan.pdf)) | Interim Report | Final Report |
+| [Project Plan](https://i.cs.hku.hk/~shuang/plan.pdf) | Interim Report | Final Report |
