@@ -1,5 +1,5 @@
 ---
-title: "Intro"
+title: "Introduction"
 date: 2022-09-26T09:31:11+08:00
 featured_image: "/images/mu.png"
 ---
@@ -30,7 +30,7 @@ In 2015, [Cao and Yang](https://ieeexplore.ieee.org/document/7163042 "Towards Ma
 
 In 2019, [Bourtoule *et al.*](https://ieeexplore.ieee.org/document/9519428 "Machine Unlearning") proposed SISA training, a framework that expedites the machine unlearning process. The paper later appeared in the 2021 IEEE Symposium on Security and Privacy ("Oakland"), a top conference in cybersecurity and privacy ([CORE A\* rank](http://portal.core.edu.au/conf-ranks/750/)). 
 
-In 2022, [Nguyen *et al.*](https://arxiv.org/abs/2209.02299 "A Survey of Machine Unlearning") surveyed recent developments of the machine unlearning field.  
+In 2022, [Nguyen *et al.*](https://arxiv.org/abs/2209.02299 "A Survey of Machine Unlearning") comprehensively surveyed recent developments of the machine unlearning field.  
 
 ## What is Federated Learning?
 
@@ -46,6 +46,10 @@ To quote Google's own words:
 ### Related FYP
 
 [Quantitative Performance and Security Evaluation of Federated Learning on open-sourced platforms](https://wp.cs.hku.hk/2022/fyp22019/ "FYP22019") by C.T. Fong -- also supervised by [Prof. S.M. Yiu](https://www.cs.hku.hk/index.php/people/academic-staff/smyiu), an industry project with [ASTRI](https://www.astri.org/) (I [spent a summer](https://www.linkedin.com/feed/update/urn:li:activity:6966255953239306240/) there. ASTRI's CTO [Dr. Lucas C.K. Hui](https://www.astri.org/about/senior-management/senior-director-cctt/) was [with HKUCS](https://www.cs.hku.hk/people/academic-staff/hui)).
+
+## About This Project
+
+This project aims to investigate how machine unlearning can be applied in federated learning, to produce materials for non-specialists and experts in related areas for learning this topic, to explore possible improvements to the work done in the field and to deliver final year project results of outstanding quality and standard. 
 
 ## Related Resources
 
