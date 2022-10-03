@@ -5,4 +5,4 @@ My Final Year Project (COMP4801) :hammer_and_pick: of [BEng(CompSc)](https://www
 
 **FYP22002: A Repository of Jupyter Notebooks on Unlearning in Federated Learning**
 
-[Project Plan](https://i.cs.hku.hk/~shuang/fyp-plan.pdf)
+:point_right: Check out the [project website](https://vicw0ng-hk.github.io/feul/) (there's also a [backup](https://i.cs.hku.hk/~shuang/fyp/) on [HKU CS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., Fac. of Engr., Univ. of H.K.") server in case GitHub [goes down](https://www.githubstatus.com/ "GitHub Status")) 
