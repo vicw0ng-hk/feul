@@ -11,6 +11,6 @@ Work is in progress. Please stay tuned.
 
 [Introduction](intro/) | [Schedule](timetable/) | [Methods](methods/)
 
-[Project Plan](https://i.cs.hku.hk/~shuang/fyp-plan.pdf) | Interim Report | Final Report
+[Project Plan](docs/fyp-plan.pdf) | Interim Report | Final Report
 
 Made with ❤️ by Victor
