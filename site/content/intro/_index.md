@@ -4,7 +4,7 @@ date: 2022-09-26T09:31:11+08:00
 featured_image: "/images/mu.png"
 ---
 
-## See [Project Plan](docs/fyp-plan.pdf) for more details
+## See [Project Plan](../docs/fyp-plan.pdf) for more details
 
 <div style="text-align:left;">
 
