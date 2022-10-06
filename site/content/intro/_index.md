@@ -63,7 +63,7 @@ Related resources in security of ML and machine unlearning.
 - [Virtual Seminar Series - Challenges and Opporunities for Security & Privacy in Machine Learning](https://vsehwag.github.io/SPML_seminar/)
 - [IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)](https://satml.org/)
 - [the cleverhans blog - a blog by Ian Goodfellow and Nicolas Papernot about security and privacy in machine learning](http://www.cleverhans.io/)
-- [ECE1784H/CSC2559H: Trustworthy Machine Learning 2022 Fall - University of Toronto](https://www.papernot.fr/teaching/f22-trustworthy-ml.html)
+- [ECE1784H/CSC2559H: Trustworthy Machine Learning Fall 2022 - University of Toronto](https://www.papernot.fr/teaching/f22-trustworthy-ml.html)
 - [Awesome Machine Unlearning - GitHub Repo](https://github.com/tamlhp/awesome-machine-unlearning)
 
 </div>
