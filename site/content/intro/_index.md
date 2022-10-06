@@ -4,7 +4,7 @@ date: 2022-09-26T09:31:11+08:00
 featured_image: "/images/mu.png"
 ---
 
-## See [Project Plan](../docs/fyp-plan.pdf) for more details
+## 👉 More details at [Project Plan](../docs/fyp-plan.pdf) 👈
 
 <div style="text-align:left;">
 
@@ -22,7 +22,7 @@ In a way, you can say we are rewriting history for the machine, or the machine h
 
 If you like the analogy using the human brain, machine unlearning is like [memory erasure](https://en.wikipedia.org/wiki/Memory_erasure), which is very difficult. 
 
-![MIB](/images/mib.jpg)
+![MIB](../images/mib.jpg)
 
 IRL, we don't have MIB's neuralyzer, so...
 
