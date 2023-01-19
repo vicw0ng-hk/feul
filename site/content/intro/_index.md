@@ -5,6 +5,7 @@ featured_image: "/images/mu.png"
 ---
 
 ## 👉 More details at [Project Plan](../docs/fyp-plan.pdf) 👈
+## 👉 Update -> [1st Presentation](../docs/fyp-1st-present.pdf) 👈
 
 <div style="text-align:left;">
 
