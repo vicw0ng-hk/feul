@@ -28,11 +28,11 @@ My Final Year Project ([COMP4801](https://www.cs.hku.hk/programmes/beng-compsc/c
 | 12 | :pill: FedRecover: recover from poison | :book: [fedrecover.ipynb](/notebooks/12-cao+22/fedrecover.ipynb) | [^cao+22] |
 | 13 | :busts_in_silhouette: Unlearning of federated clusters | :book: [unlearning-cluster.ipynb](/notebooks/13-pan+22/unlearning-cluster.ipynb) | [^pan+22] |
 | 14 | :rocket: Unlearning in federated optimization | :book: [sequential-informed.ipynb](/notebooks/14-fra+22/sequential-informed.ipynb) | [^fra+22] |
-| 15 | | :book: []() | [^] |
-| 16 | | :book: []() | [^] |
-| 17 | | :book: []() | [^] |
-| 18 | | :book: []() | [^] |
-| 19 | | :book: []() | [^] |
+| 15 | :balance_scale: Compare class, client, sample unlearning | :book: [federated-unlearning.ipynb](/notebooks/15-wu+22/federated-unlearning.ipynb) | [^wu+22] |
+| 16 | :milky_way: Subspace-based federated unlearning | :book: [subspace.ipynb](/notebooks/16-li+23/subspace.ipynb) | [^li+23] |
+| 17 | :bar_chart: Federated knowledge graph embedding learning and unlearning | :book: [heterogeneous-kg-embedding.ipynb](/notebooks/17-zlh23/heterogeneous-kg-embedding.ipynb) | [^zlh23] |
+| 18 | :+1: Federated unlearning for on-device recommendation | :book: [on-device-recommend.ipynb](/notebooks/18-yua+23/on-device-recommend.ipynb) | [^yua+23] |
+| 19 | :link: Knot: asynchronous federated unlearning | :book: [knot.ipynb](/notebooks/19-zl23/knot.ipynb) <br /> :computer: [code-knot.ipynb](/notebooks/19-zl23/code-knot.ipynb) | [^zl23] |
 
 [^ngu+22]: T. T. Nguyen, T. T. Huynh, P. L. Nguyen, A. W.-C. Liew, H. Yin, and Q. V. H. Nguyen, A Survey of Machine Unlearning. arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.02299)]
 [^dan21]: Q.-V. Dang, “Right to Be Forgotten in the Age of Machine Learning,” in Advances in Digital Science, 2021, pp. 403–411. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-71782-7_35)]
@@ -55,3 +55,8 @@ My Final Year Project ([COMP4801](https://www.cs.hku.hk/programmes/beng-compsc/c
 [^cao+22]: X. Cao, J. Jia, Z. Zhang, and N. Z. Gong, FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information. arXiv, 2022. doi: 10.48550/ARXIV.2210.10936. [[Paper](https://arxiv.org/abs/2210.10936)]
 [^pan+22]: C. Pan, J. Sima, S. Prakash, V. Rana, and O. Milenkovic, Machine Unlearning of Federated Clusters. arXiv, 2022. doi: 10.48550/ARXIV.2210.16424. [[Paper](https://arxiv.org/abs/2210.16424)]
 [^fra+22]: Y. Fraboni, R. Vidal, L. Kameni, and M. Lorenzi, Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization. arXiv, 2022. doi: 10.48550/ARXIV.2211.11656. [[Paper](https://arxiv.org/abs/2211.11656)]
+[^wu+22]: L. Wu, S. Guo, J. Wang, Z. Hong, J. Zhang, and Y. Ding, “Federated Unlearning: Guarantee the Right of Clients to Forget,” IEEE Network, vol. 36, no. 5, pp. 129–135, 2022, doi: 10.1109/MNET.001.2200198. [[Paper](https://ieeexplore.ieee.org/abstract/document/9964015)]
+[^li+23]: G. Li, L. Shen, Y. Sun, Y. Hu, H. Hu, and D. Tao, Subspace based Federated Unlearning. arXiv, 2023. doi: 10.48550/ARXIV.2302.12448. [[Paper](https://arxiv.org/abs/2302.12448)]
+[^zlh23]: X. Zhu, G. Li, and W. Hu, Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning. arXiv, 2023. doi: 10.48550/ARXIV.2302.02069 [[Paper](https://arxiv.org/abs/2302.02069)]
+[^yua+23]: W. Yuan, H. Yin, F. Wu, S. Zhang, T. He, and H. Wang, “Federated Unlearning for On-Device Recommendation,” in Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining, 2023, pp. 393–401. doi: 10.1145/3539597.3570463. [[Paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570463)]
+[^zl23]: N. Su and B. Li, “Asynchronous Federated Unlearning,” Proceedings of International Conference on Computer Communications (INFOCOM), 2023. [[Paper](https://ningxinsu.github.io/projects/infocom23/)]
