@@ -9,8 +9,8 @@ Welcome to the BEng(CompSc) FYP of [Victor S. HUANG](https://github.com/vicw0ng-
 
 Work is in progress. Please stay tuned. 
 
-[Introduction](intro/) | [Schedule](timetable/) | [Methods](methods/)
+[Introduction](intro/) | [Methods](methods/)
 
-[Project Plan](docs/fyp-plan.pdf) | Interim Report | Final Report
+[Project Plan](docs/fyp-plan.pdf) | [Interim Report](docs/interim.pdf) | Final Report
 
 Made with ❤️ by Victor
