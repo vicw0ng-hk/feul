@@ -11,12 +11,18 @@ My Final Year Project ([COMP4801](https://www.cs.hku.hk/programmes/beng-compsc/c
 
 ## :card_index_dividers: Contents
 
-| # | Topic | Contents | Reference |
+| # | Topics | Contents | References |
 | :--- | :--- | :--- | :--- |
 | 0 | :wave: Intro to unlearning and FL | :book: [intro-unlearning.ipynb](/notebooks/00-intro-ul-fl/intro-unlearning.ipynb) <br /> :book: [intro-fl.ipynb](/notebooks/00-intro-ul-fl/intro-fl.ipynb) <br /> :computer: [code-amnesiac-ml.ipynb](/notebooks/00-intro-ul-fl/code-amnesiac-ml.ipynb) <br /> :computer: [code-flwr.ipynb](/notebooks/00-intro-ul-fl/code-flwr.ipynb) | [^ngu+22][^dan21][^pit+19][^st17][^cy15][^bou+21][^zha+21][^mcm+17][^gng21] |
 | 1 | :mag: More on unlearning | :book: [unlearning-definition.ipynb](/notebooks/01-ul-more/unlearning-definition.ipynb) <br /> :book: [unlearning-framework.ipynb](/notebooks/01-ul-more/unlearning-framework.ipynb)  | [^ngu+22] |
 | 2 | :bridge_at_night: Unlearning in FL | :book: [ul-in-fl.ipynb](/notebooks/02-un-in-fl/ul-in-fl.ipynb) | [^ngu+22][^mcm+17] |
 | 3 | :tada: FedEraser: 1st attempt | :book: [federaser.ipynb](/notebooks/03-liu+21a/federaser.ipynb) <br /> :computer: [code-federaser.ipynb](/notebooks/03-liu+21a/code-federaser.ipynb) | [^liu+21a] |
+| 4 | :deciduous_tree: RevFRF: unlearning in RF | :book: [revfrf.ipynb](/notebooks/04-liu+21b/revfrf.ipynb) | [^liu+21b] |
+| 5 | :coin: Bayesian variational FL and unlearning | :book: [bayesian-variational.ipynb](notebooks/05-gsk21/bayesian-variational.ipynb) | [^gsk21] |
+| 6 | :test_tube: Unlearing with distillation | :book: [distillation.ipynb](/notebooks/06-wzm22/distillation.ipynb) | [^wzm22] |
+| 7 | :scissors: Unlearning with class-discriminative pruning | :book: [channel-prune.ipynb](notebooks/07-wan+22/channel-prune.ipynb) | [^wan+22] |
+| 8 | :weight_lifting: Unlearing with rapid retraining | :book: [rapid-retrain.ipynb](/notebooks/08-liu+22/rapid-retrain.ipynb) <br /> :computer: [code-rapid-retrain.ipynb](/notebooks/08-liu+22/code-rapid-retrain.ipynb) | [^liu+22] |
+| 9 | :dizzy: Forget-SVGD: particle-based Bayesian unlearning | :book: [forget-svgd.ipynb](/notebooks/09-gon+22/forget-svgd.ipynb) | [^gon+22] |
 
 [^ngu+22]: T. T. Nguyen, T. T. Huynh, P. L. Nguyen, A. W.-C. Liew, H. Yin, and Q. V. H. Nguyen, A Survey of Machine Unlearning. arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.02299)]
 [^dan21]: Q.-V. Dang, “Right to Be Forgotten in the Age of Machine Learning,” in Advances in Digital Science, 2021, pp. 403–411. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-71782-7_35)]
@@ -28,3 +34,9 @@ My Final Year Project ([COMP4801](https://www.cs.hku.hk/programmes/beng-compsc/c
 [^mcm+17]: B. McMahan, E. Moore, D. Ramage, S. Hampson, and B. A. y Arcas, “Communication-Efficient Learning of Deep Networks from Decentralized Data,” in Proceedings of the 20th International Conference on Artificial Intelligence and Statistics, Apr. 2017, vol. 54, pp. 1273–1282. [[Paper](https://proceedings.mlr.press/v54/mcmahan17a.html)]
 [^gng21]: Graves, L., Nagisetty, V., & Ganesh, V. (2021). Amnesiac Machine Learning. Proceedings of the AAAI Conference on Artificial Intelligence, 35(13), 11516-11524. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17371)]
 [^liu+21a]: G. Liu, X. Ma, Y. Yang, C. Wang, and J. Liu, “FedEraser: Enabling Efficient Client-Level Data Removal from Federated Learning Models,” in 2021 IEEE/ACM 29th International Symposium on Quality of Service (IWQOS), 2021, pp. 1–10. [[Paper](https://ieeexplore.ieee.org/abstract/document/9521274)]
+[^liu+21b]: Y. Liu, Z. Ma, Y. Yang, X. Liu, J. Ma, and K. Ren, “RevFRF: Enabling Cross-Domain Random Forest Training With Revocable Federated Learning,” IEEE Transactions on Dependable and Secure Computing, vol. 19, no. 6, pp. 3671–3685, 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9514457)]
+[^gsk21]: J. Gong, O. Simeone, and J. Kang, “Bayesian Variational Federated Learning and Unlearning in Decentralized Networks,” in 2021 IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2021, pp. 216–220. [[Paper](https://ieeexplore.ieee.org/abstract/document/9593225)]
+[^wzm22]: C. Wu, S. Zhu, and P. Mitra, Federated Unlearning with Knowledge Distillation. arXiv, 2022. [[Paper](https://arxiv.org/abs/2201.09441)]
+[^wan+22]: J. Wang, S. Guo, X. Xie, and H. Qi, “Federated Unlearning via Class-Discriminative Pruning,” in Proceedings of the ACM Web Conference 2022, 2022, pp. 622–632. [[Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512222)]
+[^liu+22]: Y. Liu, L. Xu, X. Yuan, C. Wang, and B. Li, “The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining,” May 2022. doi: 10.1109/infocom48880.2022.9796721. [[Paper](https://ieeexplore.ieee.org/document/9796721)]
+[^gon+22]: J. Gong, J. Kang, O. Simeone and R. Kassab, "Forget-SVGD: Particle-Based Bayesian Federated Unlearning," 2022 IEEE Data Science and Learning Workshop (DSLW), 2022, pp. 1-6, doi: 10.1109/DSLW53931.2022.9820602. [[Paper](https://ieeexplore.ieee.org/document/9820602)]
