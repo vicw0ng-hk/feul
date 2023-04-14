@@ -9,6 +9,30 @@ My Final Year Project ([COMP4801](https://www.cs.hku.hk/programmes/beng-compsc/c
 
 ## :memo: Description
 
+This repo aims to provide materials, in the form of Jupyter Notebooks, for studying machine unlearning in federated learning, both of which are new research areas that are developing rapidly. 
+
+> **Note**
+> The data collection ended in early April 2023 and I have done my best to scrape the internet on this topic. 
+> If you are checking out this repo in the future, you may find it incomplete. 
+> However, it is helpful that we have this snapshot, so that future researchers can see how this new area grew and take inspirations from earlier research. 
+
+The contents of the notebooks consist of
+1. general introduction to the area and it's background (0-2);
+2. research progress in 2021 (3-5);
+3. research progress in 2022 (6-15);
+4. research progress in 2023 (until early April) (16-19).
+
+The notebooks, except those in the 1st part, are ordered according to the publication dates (or conference dates, or last edit date of preprints) of the papers.
+
+:book:-marked notebooks are summaries of the paper with key concepts, figures and tables presented. <br /> 
+:computer:-marked notebooks are instructions on how to run the code for the design algorithms, with tweaks made to get rid of bugs that usually exist in the original code. 
+
+### Recommended prerequisites
+
+Machine Learning **AND** Computer Security **AND** Operating Systems
+
+**Optional**: Cryptography, Distributed Systems
+
 ## :card_index_dividers: Contents
 
 | # | Topics | Contents | References |
