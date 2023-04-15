@@ -7,9 +7,13 @@ cascade:
 
 Welcome to the BEng(CompSc) FYP of [Victor S. HUANG](https://github.com/vicw0ng-hk/), supervised by [Prof. S.M. YIU](https://www.cs.hku.hk/index.php/people/academic-staff/smyiu/). 
 
-Work is in progress. Please stay tuned. 
+🎉👉 [Check out the repo](https://github.com/vicw0ng-hk/feul) 👈🎉
 
 [Introduction](intro/) | [Methods](methods/)
+
+#### Update
+
+[1st Presentation](docs/fyp-1st-present.pdf) <br /> Final Presentation
 
 [Project Plan](docs/fyp-plan.pdf) | [Interim Report](docs/interim.pdf) | Final Report
 

@@ -4,9 +4,9 @@ date: 2022-09-26T09:31:11+08:00
 featured_image: "/images/mu.png"
 ---
 
-## 👉 More details at [Project Plan](../docs/fyp-plan.pdf) 👈
+<!-- ## 👉 More details at [Project Plan](../docs/fyp-plan.pdf) 👈 -->
 
-## 👉 Update 🎈 [1st Presentation](../docs/fyp-1st-present.pdf) 👈
+<!-- ## 👉 Update 🎈 [1st Presentation](../docs/fyp-1st-present.pdf) 👈 -->
 
 <div style="text-align:left;">
 
