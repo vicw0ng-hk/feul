@@ -11,7 +11,7 @@ Paginate = 10
   custom_css = ["style.css"]
 [[params.ananke_socials]]
   name = "github"
-  url = "https://github.com/vicw0ng-hk/"
+  url = "https://github.com/vicw0ng-hk/feul/"
 [[params.ananke_socials]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/vicw0ng/"
