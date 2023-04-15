@@ -1,11 +1,11 @@
 # :oil_drum: feul 
 :notebook: Notebooks on ***Fe***derated ~~Learning~~ <ins>***U***n***l***earning</ins>
 
-My Final Year Project ([COMP4801](https://www.cs.hku.hk/programmes/beng-compsc/course-descriptions#COMP4801)) of :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") at :school: [HKU](https://hku.hk/ "The University of Hong Kong"). 
+My Final Year Project ([COMP4801](https://www.cs.hku.hk/programmes/beng-compsc/course-descriptions#COMP4801 "Final Year Project")) of :mortar_board: [BEng(CompSc)](https://www.cs.hku.hk/programmes/beng-compsc/programme-structure "Bachelor of Engineering in Computer Science") at :school: [HKU](https://hku.hk/ "The University of Hong Kong"). 
 
 **FYP22002: A Repository of Jupyter Notebooks on Unlearning in Federated Learning**
 
-:point_right: Check out the :globe_with_meridians: [project website](https://vicw0ng-hk.github.io/feul/) (or visit the [backup](https://i.cs.hku.hk/~shuang/fyp/) on [HKU CS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., Fac. of Engr., Univ. of H.K.") server in case GitHub [goes down](https://www.githubstatus.com/ "GitHub Status")) 
+:point_right: For more info on the project, check out the :globe_with_meridians: [project website](https://vicw0ng-hk.github.io/feul/) ([backup](https://i.cs.hku.hk/~shuang/fyp/) on [HKU CS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., Fac. of Engr., Univ. of H.K.") server in case GitHub [goes down](https://www.githubstatus.com/ "GitHub Status")) 
 
 ## :memo: Description
 
@@ -28,11 +28,15 @@ The notebooks, except those in the 1st part, are ordered according to the public
 :computer:-marked notebooks are instructions on how to run the code for the design algorithms, with tweaks made to get rid of bugs that usually exist in the original code. <br />
 Clicking on :book: or :computer: can open the corresponding notebook in Google Colab.
 
-### Recommended prerequisites
+### :books: Recommended prerequisites
 
-Machine Learning **AND** Computer Security **AND** Operating Systems
+- Machine Learning
+- Computer Security
+- Operating Systems
 
-**Optional**: Cryptography, Distributed Systems
+:game_die: **Optional**: 
+- Cryptography
+- Distributed Systems
 
 ## :card_index_dividers: Contents
 
