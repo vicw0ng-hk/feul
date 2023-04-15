@@ -37,15 +37,15 @@ Machine Learning **AND** Computer Security **AND** Operating Systems
 
 | # | Topics | Contents | References |
 | ---: | :--- | :--- | :--- |
-| 0 | :wave: Intro to unlearning and FL | :book: [intro-unlearning.ipynb](/notebooks/00-intro-ul-fl/intro-unlearning.ipynb) <br /> :book: [intro-fl.ipynb](/notebooks/00-intro-ul-fl/intro-fl.ipynb) <br /> :computer: [code-amnesiac-ml.ipynb](/notebooks/00-intro-ul-fl/code-amnesiac-ml.ipynb) <br /> :computer: [code-flwr.ipynb](/notebooks/00-intro-ul-fl/code-flwr.ipynb) | [^ngu+22][^dan21][^pit+19][^st17][^cy15][^bou+21][^zha+21][^mcm+17][^gng21] |
+| 0 | :wave: Intro to unlearning and FL | :book: [intro-unlearning.ipynb](/notebooks/00-intro-ul-fl/intro-unlearning.ipynb) <br /> :book: [intro-fl.ipynb](/notebooks/00-intro-ul-fl/intro-fl.ipynb) <br /> [:computer:](https://colab.research.google.com/github/vicw0ng-hk/feul/blob/master/notebooks/00-intro-ul-fl/code-amnesiac-ml.ipynb "Click to open in Google Colab") [code-amnesiac-ml.ipynb](/notebooks/00-intro-ul-fl/code-amnesiac-ml.ipynb) <br /> [:computer:](https://colab.research.google.com/github/vicw0ng-hk/feul/blob/master/notebooks/00-intro-ul-fl/code-flwr.ipynb "Click to open in Google Colab") [code-flwr.ipynb](/notebooks/00-intro-ul-fl/code-flwr.ipynb) | [^ngu+22][^dan21][^pit+19][^st17][^cy15][^bou+21][^zha+21][^mcm+17][^gng21] |
 | 1 | :mag: More on unlearning | :book: [unlearning-definition.ipynb](/notebooks/01-ul-more/unlearning-definition.ipynb) <br /> :book: [unlearning-framework.ipynb](/notebooks/01-ul-more/unlearning-framework.ipynb)  | [^ngu+22] |
 | 2 | :bridge_at_night: Unlearning in FL | :book: [ul-in-fl.ipynb](/notebooks/02-un-in-fl/ul-in-fl.ipynb) | [^ngu+22][^mcm+17] |
-| 3 | :tada: FedEraser: 1st attempt | :book: [federaser.ipynb](/notebooks/03-liu+21a/federaser.ipynb) <br /> :computer: [code-federaser.ipynb](/notebooks/03-liu+21a/code-federaser.ipynb) | [^liu+21a] |
+| 3 | :tada: FedEraser: 1st attempt | :book: [federaser.ipynb](/notebooks/03-liu+21a/federaser.ipynb) <br /> [:computer:](https://colab.research.google.com/github/vicw0ng-hk/feul/blob/master/notebooks/03-liu%2B21a/code-federaser.ipynb "Click to open in Google Colab") [code-federaser.ipynb](/notebooks/03-liu+21a/code-federaser.ipynb) | [^liu+21a] |
 | 4 | :deciduous_tree: RevFRF: federated unlearning in RF | :book: [revfrf.ipynb](/notebooks/04-liu+21b/revfrf.ipynb) | [^liu+21b] |
 | 5 | :coin: Bayesian variational FL and unlearning | :book: [bayesian-variational.ipynb](notebooks/05-gsk21/bayesian-variational.ipynb) | [^gsk21] |
 | 6 | :test_tube: Federated unlearing with distillation | :book: [distillation.ipynb](/notebooks/06-wzm22/distillation.ipynb) | [^wzm22] |
 | 7 | :scissors: Federated unlearning with class-discriminative pruning | :book: [channel-prune.ipynb](notebooks/07-wan+22/channel-prune.ipynb) | [^wan+22] |
-| 8 | :weight_lifting: Federated unlearing with rapid retraining | :book: [rapid-retrain.ipynb](/notebooks/08-liu+22/rapid-retrain.ipynb) <br /> :computer: [code-rapid-retrain.ipynb](/notebooks/08-liu+22/code-rapid-retrain.ipynb) | [^liu+22] |
+| 8 | :weight_lifting: Federated unlearing with rapid retraining | :book: [rapid-retrain.ipynb](/notebooks/08-liu+22/rapid-retrain.ipynb) <br /> [:computer:](https://colab.research.google.com/github/vicw0ng-hk/feul/blob/master/notebooks/08-liu%2B22/code-rapid-retrain.ipynb "Click to open in Google Colab") [code-rapid-retrain.ipynb](/notebooks/08-liu+22/code-rapid-retrain.ipynb) | [^liu+22] |
 | 9 | :dizzy: Forget-SVGD: particle-based Bayesian federated unlearning | :book: [forget-svgd.ipynb](/notebooks/09-gon+22/forget-svgd.ipynb) | [^gon+22] |
 | 10 | :heavy_check_mark: VeriFi: Verifiable federated unlearning | :book: [verifi.ipynb](/notebooks/10-gao+22/verifi.ipynb) | [^gao+22] |
 | 11 | :no_good: Client opt-out | :book: [opt-out-unlearning.ipynb](/notebooks/11-hal+22/opt-out-unlearning.ipynb) | [^hal+22] |
@@ -56,7 +56,7 @@ Machine Learning **AND** Computer Security **AND** Operating Systems
 | 16 | :milky_way: Subspace-based federated unlearning | :book: [subspace.ipynb](/notebooks/16-li+23/subspace.ipynb) | [^li+23] |
 | 17 | :bar_chart: Federated knowledge graph embedding learning and unlearning | :book: [heterogeneous-kg-embedding.ipynb](/notebooks/17-zlh23/heterogeneous-kg-embedding.ipynb) | [^zlh23] |
 | 18 | :+1: Federated unlearning for on-device recommendation | :book: [on-device-recommend.ipynb](/notebooks/18-yua+23/on-device-recommend.ipynb) | [^yua+23] |
-| 19 | :link: Knot: asynchronous federated unlearning | :book: [knot.ipynb](/notebooks/19-zl23/knot.ipynb) <br /> :computer: [code-knot.ipynb](/notebooks/19-zl23/code-knot.ipynb) | [^zl23] |
+| 19 | :link: Knot: asynchronous federated unlearning | :book: [knot.ipynb](/notebooks/19-zl23/knot.ipynb) <br /> [:computer:](https://colab.research.google.com/github/vicw0ng-hk/feul/blob/master/notebooks/19-zl23/code-knot.ipynb "Click to open in Google Colab") [code-knot.ipynb](/notebooks/19-zl23/code-knot.ipynb) | [^zl23] |
 
 [^ngu+22]: T. T. Nguyen, T. T. Huynh, P. L. Nguyen, A. W.-C. Liew, H. Yin, and Q. V. H. Nguyen, A Survey of Machine Unlearning. arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.02299)]
 [^dan21]: Q.-V. Dang, “Right to Be Forgotten in the Age of Machine Learning,” in Advances in Digital Science, 2021, pp. 403–411. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-71782-7_35)]
