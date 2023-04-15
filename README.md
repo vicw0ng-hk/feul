@@ -5,11 +5,11 @@ My Final Year Project ([COMP4801](https://www.cs.hku.hk/programmes/beng-compsc/c
 
 **FYP22002: A Repository of Jupyter Notebooks on Unlearning in Federated Learning**
 
-:point_right: Check out the [project website](https://vicw0ng-hk.github.io/feul/) (or visit the [backup](https://i.cs.hku.hk/~shuang/fyp/) on [HKU CS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., Fac. of Engr., Univ. of H.K.") server in case GitHub [goes down](https://www.githubstatus.com/ "GitHub Status")) 
+:point_right: Check out the :globe_with_meridians: [project website](https://vicw0ng-hk.github.io/feul/) (or visit the [backup](https://i.cs.hku.hk/~shuang/fyp/) on [HKU CS](https://www.cs.hku.hk/ "Dept. of Comp. Sci., Fac. of Engr., Univ. of H.K.") server in case GitHub [goes down](https://www.githubstatus.com/ "GitHub Status")) 
 
 ## :memo: Description
 
-This repo aims to provide materials, in the form of Jupyter Notebooks, for studying machine unlearning in federated learning, both of which are new research areas that are developing rapidly. 
+This repo aims to provide materials, in the form of Jupyter Notebooks, for studying machine unlearning in federated learning (FL), both of which are new research areas that are developing rapidly. 
 
 > **Note**
 > The data collection ended in early April 2023 and I have done my best to scrape the internet on this topic. 
