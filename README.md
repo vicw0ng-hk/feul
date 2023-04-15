@@ -24,8 +24,9 @@ The contents of the notebooks consist of
 
 The notebooks, except those in the 1st part, are ordered according to the publication dates (or conference dates, or last edit date of preprints) of the papers.
 
-[:book:](https://colab.research.google.com/github/vicw0ng-hk/feul/blob/master/notebooks/ "Click to open in Google Colab")-marked notebooks are summaries of the paper with key concepts, figures and tables presented. <br /> 
-:computer:-marked notebooks are instructions on how to run the code for the design algorithms, with tweaks made to get rid of bugs that usually exist in the original code. 
+:book:-marked notebooks are summaries of the paper with key concepts, figures and tables presented. <br /> 
+:computer:-marked notebooks are instructions on how to run the code for the design algorithms, with tweaks made to get rid of bugs that usually exist in the original code. <br />
+Clicking on :book: or :computer: can open the corresponding notebook in Google Colab.
 
 ### Recommended prerequisites
 
