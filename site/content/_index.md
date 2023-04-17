@@ -15,6 +15,6 @@ Welcome to the BEng(CompSc) FYP of [Victor S. HUANG](https://github.com/vicw0ng-
 
 [1st Presentation](docs/fyp-1st-present.pdf) <br /> Final Presentation
 
-[Project Plan](docs/fyp-plan.pdf) | [Interim Report](docs/interim.pdf) | Final Report
+[Project Plan](docs/fyp-plan.pdf) | [Interim Report](docs/interim.pdf) | [Final Report](docs/final.pdf)
 
 Made with ❤️ by Victor
