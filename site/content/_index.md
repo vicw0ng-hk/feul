@@ -13,7 +13,7 @@ Welcome to the BEng(CompSc) FYP of [Victor S. HUANG](https://github.com/vicw0ng-
 
 #### Update
 
-[1st Presentation](docs/fyp-1st-present.pdf) <br /> Final Presentation
+[1st Presentation](docs/fyp-1st-present.pdf) <br /> [Final Presentation](docs/fyp-2nd-present.pdf)
 
 [Project Plan](docs/fyp-plan.pdf) | [Interim Report](docs/interim.pdf) | [Final Report](docs/final.pdf)
 
